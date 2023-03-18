@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 2rem;
+  text-align: center;
+  width: 2rem;
+}
